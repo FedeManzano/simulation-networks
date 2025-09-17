@@ -40,4 +40,7 @@ El objetivo es definir distintas VLAN y distribuirlas por los puertos de diferen
 
 ## 2-Voip
 
+## Autor
+[Federico Manzano](http://github.com/FedeManzano)
+
 
