@@ -15,14 +15,14 @@ A través del ```Packet Tracer 8.2.2.0400``` se incluirán un conjuno de temas r
 
 ```TXT
 | redes_proyectos
-    | 1-Lan
-        - lan-simple.pkt
-        - lan-dos-vlans-dhcp-pht
-        - lan-dos-vlans-cruzadas.pkt
-    | 2-voip
-        - voip-comunicacion-lan.pkt
-        - voip-conexion-serial.pkt
-        - voip-dial-peer.pkt
+  | 1-Lan
+    - lan-simple.pkt
+    - lan-dos-vlans-dhcp-pht
+    - lan-dos-vlans-cruzadas.pkt
+  | 2-voip
+    - voip-comunicacion-lan.pkt
+    - voip-conexion-serial.pkt
+    - voip-dial-peer.pkt
 ```
 
 ## Introducción
