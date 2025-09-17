@@ -26,6 +26,12 @@ A través del ```Packet Tracer 8.2.2.0400``` se incluirán un conjuno de temas r
     - voip-dial-peer.pkt
 ```
 
+## Recorrido
+- [0-Introducción](#introducción)
+- [1-Lan](#1-lan)
+- [2-Voip](#2-voip)
+- [Autor](#autor)
+
 ## Introducción
 
 Proyectos realizados en el simulador de redes de CISCO. A lo largo de este trabajo se verán temas relacionados con los conceptos más importantes de las redes de computadoras (Voip, rutas estáticas, rutas dinámicas, redundancias, switching, capas etc).
