@@ -1,6 +1,7 @@
 # Proyecto Redes Informáticas 
 
-<p align="center">
+<p align="center"
+  style="border-radius: 50px; overflow: hidden;">
   <img src="imagenes/portada/portada.png" />
 </p>
 
