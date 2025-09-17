@@ -1,4 +1,4 @@
-# Proyecto Redes Informáticas 
+# Proyecto de Redes Informáticas 
 
 <p align="center">
   <img src="imagenes/portada/portada.png" />
@@ -30,11 +30,15 @@ Proyectos realizados en el simulador de redes de CISCO. A lo largo de este traba
 
 ## 1-LAN
 
-Para comenzar vamos a realizar ejemplos sencillos de como configurar redes de área local utilizando un SWITCH, un ROUTER y algunos hosts conectados. En el primer ejemplo vamos a ver de qué forma realizar lo antes mencionado a través de un SWITCH modelo 2960. A medida que avancemos en los ejemplos el nivel de dificultad irá incrementando.
-El objetivo es definir distintas VLAN y distribuirlas por los puertos de diferentes SWITCHES con las configuraciones y como comunicarlas a través del ROUTER.
+Para comenzar vamos a realizar ejemplos sencillos de como configurar redes de área local utilizando un SWITCH, un ROUTER y algunos hosts conectados a los dispositivos antes mencionados. 
+En el primer ejemplo vamos a ver de qué forma realizar lo propuesto anteriormente a través de un SWITCH modelo 2960 y un ROUTER 4331 con la configuración estática de las IP de los hosts. 
+El objetivo es definir distintas VLAN y distribuirlas por los puertos de diferentes SWITCHES con las configuraciones pertinentes para que puedan comunicarse entre sí.
+
+> Todos los ejemplos menos el primero van a utilizar la configuración dinámica de las direcciones IPv4 e IPv6, y generando esquemas de red con VLANs cruzadas através de rutas estáticas para incrementar la difultad de los ejercicios.
+
 
 [...MAS (doc.pdf)](/doc.pdf)
 
-
+## 2-Voip
 
 
