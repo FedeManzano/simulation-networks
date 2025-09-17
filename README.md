@@ -34,7 +34,7 @@ Para comenzar vamos a realizar ejemplos sencillos de como configurar redes de á
 En el primer ejemplo vamos a ver de qué forma realizar lo propuesto anteriormente a través de un SWITCH modelo 2960 y un ROUTER 4331 con la configuración estática de las IP de los hosts. 
 El objetivo es definir distintas VLAN y distribuirlas por los puertos de diferentes SWITCHES con las configuraciones pertinentes para que puedan comunicarse entre sí.
 
-> Todos los ejemplos menos el primero van a utilizar la configuración dinámica de las direcciones IPv4 e IPv6, y generando esquemas de red con VLANs cruzadas através de rutas estáticas para incrementar la difultad de los ejercicios.
+> Todos los ejemplos menos el primero van a utilizar la configuración dinámica de las direcciones IPv4 e IPv6, y generando esquemas de red con VLANs cruzadas a través de rutas estáticas para incrementar la dificultad de los ejercicios.
 
 
 [...MAS (doc.pdf)](/doc.pdf)
