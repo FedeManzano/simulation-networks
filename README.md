@@ -1,7 +1,7 @@
 # Redes Informáticas 
 
 <p align="center"
-  style="border-radius: 40px; overflow: hidden;">
+  style="border-radius: 40px; overflow: hidden; height: 350; width:400">
   <img src="imagenes/portada/portada.png" />
 </p>
 
