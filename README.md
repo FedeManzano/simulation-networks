@@ -39,7 +39,7 @@ A través del ```Packet Tracer 8.2.2.0400``` se incluirán un conjuno de temas r
 
 ## Introducción
 
-Proyectos realizados en el simulador de redes de CISCO. A lo largo de este trabajo se verán temas relacionados con los conceptos más importantes de las redes de computadoras (Voip, rutas estáticas, rutas dinámicas, redundancias, switching, capas etc).
+Proyectos realizados en el simulador de redes de [CISCO](https://www.cisco.com/site/ar/es/index.html). A lo largo de este trabajo se verán temas relacionados con los conceptos más importantes de las redes de computadoras (Voip, rutas estáticas, rutas dinámicas, redundancias, switching, capas, etc).
 
 ## 1-LAN
 
