@@ -1,8 +1,10 @@
 # Redes Informáticas 
 
 <p align="center"
-  style="border-radius: 40px; overflow: hidden; height: 350; width:400">
-  <img src="imagenes/portada/portada.png" />
+  style="border-radius: 50px; overflow: hidden;">
+  <img src="imagenes/portada/portada.png" 
+  style='height: 300px; width: 370px overflow: hidden;/>
+  '
 </p>
 
 A través del ```Packet Tracer 8.2.2.0400``` se incluirán un conjuno de temas relacionados con la configuración de redes informáticas.
