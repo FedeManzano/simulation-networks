@@ -28,6 +28,7 @@ A través del ```Packet Tracer 8.2.2.0400``` se incluirán un conjuno de temas r
     - <i>voip-dial-peer.pkt</i>
   - <b>3-Rutas-Estáticas</b>
     - <i>rs-ruta-default.pkt</i>
+  - <b>[Documentación PDF](doc.pdf)</b>
 
 ## Recorrido
 - [0-Introducción](#introducción)
