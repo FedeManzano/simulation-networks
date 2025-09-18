@@ -17,18 +17,19 @@ A través del ```Packet Tracer 8.2.2.0400``` se incluirán un conjuno de temas r
 
 ## Estrctura
 
-- <b>Redes_Proyectos</b>
-  - <b>1-Lan</b>
-    - <i>lan-simple.pkt</i>
-    - <i>lan-dos-vlans-dhcp.pkt</i>
-    - <i>lan-dos-vlans-cruzadas.pkt</i>
-  - <b>2-Voip</b>
-    - <i>voip-comunicacion-lan.pkt</i>
-    - <i>voip-conexion-serial.pkt</i>
-    - <i>voip-dial-peer.pkt</i>
-  - <b>3-Rutas-Estáticas</b>
-    - <i>rs-ruta-default.pkt</i>
-  - <b>[Documentación PDF](doc.pdf)</b>
+1. <b>Lan</b>
+    * <i>lan-simple.pkt</i>
+    * <i>lan-dos-vlans-dhcp.pkt</i>
+    * <i>lan-dos-vlans-cruzadas.pkt</i>
+2. <b>Voip</b>
+    * <i>voip-comunicacion-lan.pkt</i>
+    * <i>voip-conexion-serial.pkt</i>
+    * <i>voip-dial-peer.pkt</i>
+3. <b>Rutas-Estáticas</b>
+    * <i>rs-ruta-default.pkt</i>
+    * <i>rs-ruta-estática.pkt</i>
+    * <i>rs-ruta-flotante.pkt</i>
+15. <b>[Documentación PDF](doc.pdf)</b>
 
 ## Recorrido
 - [0-Introducción](#introducción)
