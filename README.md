@@ -41,8 +41,8 @@ Proyectos realizados en el simulador de redes de CISCO. A lo largo de este traba
 
 ## 1-LAN
 
-Para comenzar vamos a realizar ejemplos sencillos de como configurar redes de área local utilizando un SWITCH, un ROUTER y algunos hosts conectados a los dispositivos antes mencionados. 
-En el primer ejemplo vamos a ver de qué forma realizar lo propuesto anteriormente a través de un SWITCH modelo 2960 y un ROUTER 4331 con la configuración estática de las IP de los hosts. 
+Para comenzar vamos a realizar ejemplos sencillos de como configurar redes de área local utilizando SWITCHES,  ROUTERS y algunos hosts conectados a los dispositivos antes mencionados. 
+En el primer ejemplo vamos a ver de que forma realizar lo propuesto anteriormente a través de un SWITCH modelo 2960 y un ROUTER 4331 con la configuración estática de las IP de los hosts. 
 El objetivo es definir distintas VLAN y distribuirlas por los puertos de diferentes SWITCHES con las configuraciones pertinentes para que puedan comunicarse entre sí.
 
 > Todos los ejemplos menos el primero van a utilizar la configuración dinámica de las direcciones IPv4 e IPv6, y generando esquemas de red con VLANs cruzadas a través de rutas estáticas para incrementar la dificultad de los ejercicios.
