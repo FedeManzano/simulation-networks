@@ -75,7 +75,7 @@ Los ejemplos seleccionados para este documento son tres, en los cuales se van a 
 
 :green_book: [...MAS (doc.pdf)](/doc.pdf)
 
-## Ruta Estática
+## :arrow_heading_up: Ruta Estática
 Proximamente...
 
 :green_book: [...MAS (doc.pdf)](/doc.pdf)
