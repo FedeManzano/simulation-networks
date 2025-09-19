@@ -54,6 +54,13 @@ El objetivo es definir distintas VLAN y distribuirlas por los puertos de diferen
 
 ## 2-Voip
 
+En el siguiente apartado se van a llevar a cabo configuraciones relacionadas con la administración de la ```telefonía```, utilizando el protocolo que permite la comunicación a través de la <b>voz (Voip)</b>.
+Los ejemplos seleccionados para este documento son tres, en los cuales se van a poner en práctica todos los conceptos relacionados con esta sección. Es importante tener en cuenta que existen dos tipos de redes:
+
+- La primera es la que para la comunicación de dos o más hosts se utiliza un servidor como intermediario que permite dirigir los recursos compartidos a los destinos correctos <b>```(CLIENTE-SERVIDOR)```</b>.
+
+- El otro tipo de red es la que no se necesita un servidor que administre la comunicación sino que los dispositivos que quieren compartir recursos lo hacen directamente uno con el otro sin necesidad de intermediario, a este tipo de red se las denomina ```(PEER-TO-PEER)```.
+
 ## Autor
 [Federico Manzano](http://github.com/FedeManzano)
 
