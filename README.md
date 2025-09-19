@@ -10,6 +10,7 @@ A través del ```Packet Tracer 8.2.2.0400``` se incluirán un conjuno de temas r
 
 - [CISCO Packet Tracer 8.2.2.0400](https://www.netacad.com/es/articles/news/download-cisco-packet-tracer)
 - [Imagen de la portada](https://www.netacad.com/)
+- [Plano E-Draw-Max](https://www.edrawmax.com/)
 
 ## Estrctura
 
@@ -25,6 +26,18 @@ A través del ```Packet Tracer 8.2.2.0400``` se incluirán un conjuno de temas r
     * <i>rs-ruta-default.pkt</i>
     * <i>rs-ruta-estática.pkt</i>
     * <i>rs-ruta-flotante.pkt</i>
+4. <b>Redundancias</b>
+    * <i>red-un-enlace-dos-capas.pkt</i>
+    * <i>red-dos-enlaces-dos-capas.pkt</i>
+    * <i>red-dos-enlaces-tres-capas.pkt</i>
+5.  <b>Ethenchannel</b>
+    * <i>eth-tres-enlaces.pkt</i>
+6. <b>Capa Física</b>
+    * <i>presupuesto</i>
+        * <i>presupuesto.txt</i>
+    * <i>fisica-sucursal.pkt</i>
+    * <i>plano_fisico.eddx</i>
+    * <i>plano-fisico.png</i>
 15. <b>[Documentación PDF](doc.pdf)</b>
 
 ## Recorrido
