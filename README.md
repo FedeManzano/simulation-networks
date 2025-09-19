@@ -53,7 +53,7 @@ A través del ```Packet Tracer 8.2.2.0400``` se incluirán un conjuno de temas r
 
 Proyectos realizados en el simulador de redes de [CISCO](https://www.cisco.com/site/ar/es/index.html). A lo largo de este trabajo se verán temas relacionados con los conceptos más importantes de las redes de computadoras (Voip, rutas estáticas, rutas dinámicas, redundancias, switching, capas, etc).
 
-## :telephone_receiver: 1-LAN
+## :arrow_right: 1-LAN
 
 Para comenzar vamos a realizar ejemplos sencillos de como configurar redes de área local utilizando SWITCHES,  ROUTERS y algunos hosts conectados a los dispositivos antes mencionados. 
 En el primer ejemplo vamos a ver de que forma realizar lo propuesto anteriormente a través de un SWITCH modelo 2960 y un ROUTER 4331 con la configuración estática de las IP de los hosts conectados. 
@@ -62,7 +62,7 @@ El objetivo es definir distintas VLAN y distribuirlas por los puertos de diferen
 > Todos los ejemplos menos el primero van a utilizar la configuración dinámica de las direcciones IPv4 e IPv6, y generando esquemas de red con VLANs cruzadas a través de rutas estáticas para incrementar la dificultad de los ejercicios.
 
 
-[...MAS (doc.pdf)](/doc.pdf)
+:green_book: [...MAS (doc.pdf)](/doc.pdf)
 
 ## :telephone: 2-Voip
 
@@ -73,7 +73,7 @@ Los ejemplos seleccionados para este documento son tres, en los cuales se van a 
 
 - El otro tipo de red es la que no se necesita un servidor que administre la comunicación sino que los dispositivos que quieren compartir recursos lo hacen directamente uno con el otro sin necesidad de un intermediario, a este tipo de red se las denomina ```(PEER-TO-PEER)```.
 
-[...MAS (doc.pdf)](/doc.pdf)
+:green_book: [...MAS (doc.pdf)](/doc.pdf)
 
 ## Autor
 [Federico Manzano](http://github.com/FedeManzano)
