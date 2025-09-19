@@ -11,7 +11,6 @@ A través del ```Packet Tracer 8.2.2.0400``` se incluirán un conjuno de temas r
 - [CISCO Packet Tracer 8.2.2.0400](https://www.netacad.com/es/articles/news/download-cisco-packet-tracer)
 - [Imagen de la portada](https://www.netacad.com/)
 
-
 ## Estrctura
 
 1. <b>Lan</b>
