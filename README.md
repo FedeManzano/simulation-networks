@@ -12,6 +12,14 @@ A través del ```Packet Tracer 8.2.2.0400``` se incluirán un conjuno de temas r
 - [Imagen de la portada](https://www.netacad.com/)
 - [Plano E-Draw-Max](https://www.edrawmax.com/)
 
+## Recorrido
+- [Estructura](#estrctura)
+- [0-Introducción](#introducción)
+- [1-Lan](#1-lan)
+- [2-Voip](#2-voip)
+- [Autor](#autor)
+
+
 ## Estrctura
 
 1. <b>Lan</b>
@@ -39,12 +47,6 @@ A través del ```Packet Tracer 8.2.2.0400``` se incluirán un conjuno de temas r
     * <i>plano_fisico.eddx</i>
     * <i>plano-fisico.png</i>
 15. <b>[Documentación PDF](doc.pdf)</b>
-
-## Recorrido
-- [0-Introducción](#introducción)
-- [1-Lan](#1-lan)
-- [2-Voip](#2-voip)
-- [Autor](#autor)
 
 ## Introducción
 
