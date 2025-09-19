@@ -61,6 +61,8 @@ Los ejemplos seleccionados para este documento son tres, en los cuales se van a 
 
 - El otro tipo de red es la que no se necesita un servidor que administre la comunicación sino que los dispositivos que quieren compartir recursos lo hacen directamente uno con el otro sin necesidad de intermediario, a este tipo de red se las denomina ```(PEER-TO-PEER)```.
 
+[...MAS (doc.pdf)](/doc.pdf)
+
 ## Autor
 [Federico Manzano](http://github.com/FedeManzano)
 
