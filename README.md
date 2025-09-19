@@ -4,7 +4,7 @@
 
 # :earth_americas: Redes Informáticas 
 
-A través del ```Packet Tracer 8.2.2.0400``` se incluirán un conjuno de temas relacionados con la configuración de redes informáticas.
+A través del ```Packet Tracer 8.2.2.0400``` se incluirán un conjuno de temas relacionados con la configuración de ```redes informáticas```. Toda la documentación del proyecto se puede ver aquí <b>:green_book: [Documentación PDF](doc.pdf)</b>
 
  
  ## :information_source: Recursos externos
