@@ -55,7 +55,7 @@ Los ejemplos seleccionados para este documento son tres, en los cuales se van a 
 
 - La primera es la que para la comunicación de dos o más hosts se utiliza un servidor como intermediario que permite dirigir los recursos compartidos a los destinos correctos <b>```(CLIENTE-SERVIDOR)```</b>.
 
-- El otro tipo de red es la que no se necesita un servidor que administre la comunicación sino que los dispositivos que quieren compartir recursos lo hacen directamente uno con el otro sin necesidad de intermediario, a este tipo de red se las denomina ```(PEER-TO-PEER)```.
+- El otro tipo de red es la que no se necesita un servidor que administre la comunicación sino que los dispositivos que quieren compartir recursos lo hacen directamente uno con el otro sin necesidad de un intermediario, a este tipo de red se las denomina ```(PEER-TO-PEER)```.
 
 [...MAS (doc.pdf)](/doc.pdf)
 
