@@ -21,27 +21,27 @@ A través del ```Packet Tracer 8.2.2.0400``` se incluirán un conjuno de temas r
 - [Autor](#autor)
 
 
-## Estrctura
+## :file_folder: Estrctura
 
-1. <b>Lan</b>
+1. <b> :file_folder: Lan</b>
     * <i>lan-simple.pkt</i>
     * <i>lan-dos-vlans-dhcp.pkt</i>
     * <i>lan-dos-vlans-cruzadas.pkt</i>
-2. <b>Voip</b>
+2. <b>:file_folder: Voip</b>
     * <i>voip-comunicacion-lan.pkt</i>
     * <i>voip-conexion-serial.pkt</i>
     * <i>voip-dial-peer.pkt</i>
-3. <b>Rutas-Estáticas</b>
+3. <b>:file_folder: Rutas-Estáticas</b>
     * <i>rs-ruta-default.pkt</i>
     * <i>rs-ruta-estática.pkt</i>
     * <i>rs-ruta-flotante.pkt</i>
-4. <b>Redundancias</b>
+4. <b>:file_folder: Redundancias</b>
     * <i>red-un-enlace-dos-capas.pkt</i>
     * <i>red-dos-enlaces-dos-capas.pkt</i>
     * <i>red-dos-enlaces-tres-capas.pkt</i>
-5.  <b>Ethenchannel</b>
+5.  <b>:file_folder: Ethenchannel</b>
     * <i>eth-tres-enlaces.pkt</i>
-6. <b>Capa Física</b>
+6. <b>:file_folder: Capa Física</b>
     * <i>presupuesto</i>
         * <i>presupuesto.txt</i>
     * <i>fisica-sucursal.pkt</i>
