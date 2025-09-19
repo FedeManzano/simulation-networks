@@ -2,10 +2,9 @@
   <img src="imagenes/portada/portada.png" style='height: 300px; width: 370px overflow: hidden;'/>
 </p>
 
-# Redes Informáticas 
+# :earth_americas: Redes Informáticas 
 
 A través del ```Packet Tracer 8.2.2.0400``` se incluirán un conjuno de temas relacionados con la configuración de redes informáticas.
-
 
  
  ## :information_source: Recursos externos
@@ -14,7 +13,7 @@ A través del ```Packet Tracer 8.2.2.0400``` se incluirán un conjuno de temas r
 - [Imagen de la portada](https://www.netacad.com/)
 - [Plano E-Draw-Max](https://www.edrawmax.com/)
 
-## Recorrido
+## :clipboard: Recorrido
 - [Estructura](#estrctura)
 - [0-Introducción](#introducción)
 - [1-Lan](#1-lan)
@@ -48,13 +47,13 @@ A través del ```Packet Tracer 8.2.2.0400``` se incluirán un conjuno de temas r
     * <i>fisica-sucursal.pkt</i>
     * <i>plano_fisico.eddx</i>
     * <i>plano-fisico.png</i>
-15. <b>[Documentación PDF](doc.pdf)</b>
+15. <b>:green_book: [Documentación PDF](doc.pdf)</b>
 
 ## Introducción
 
 Proyectos realizados en el simulador de redes de [CISCO](https://www.cisco.com/site/ar/es/index.html). A lo largo de este trabajo se verán temas relacionados con los conceptos más importantes de las redes de computadoras (Voip, rutas estáticas, rutas dinámicas, redundancias, switching, capas, etc).
 
-## 1-LAN
+## :telephone_receiver: 1-LAN
 
 Para comenzar vamos a realizar ejemplos sencillos de como configurar redes de área local utilizando SWITCHES,  ROUTERS y algunos hosts conectados a los dispositivos antes mencionados. 
 En el primer ejemplo vamos a ver de que forma realizar lo propuesto anteriormente a través de un SWITCH modelo 2960 y un ROUTER 4331 con la configuración estática de las IP de los hosts conectados. 
@@ -65,7 +64,7 @@ El objetivo es definir distintas VLAN y distribuirlas por los puertos de diferen
 
 [...MAS (doc.pdf)](/doc.pdf)
 
-## 2-Voip
+## :telephone: 2-Voip
 
 En el siguiente apartado se van a llevar a cabo configuraciones relacionadas con la administración de la ```telefonía```, utilizando el protocolo que permite la comunicación a través de la <b>voz (Voip)</b>.
 Los ejemplos seleccionados para este documento son tres, en los cuales se van a poner en práctica todos los conceptos relacionados con esta sección. Es importante tener en cuenta que existen dos tipos de redes:
