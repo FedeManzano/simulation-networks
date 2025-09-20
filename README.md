@@ -14,11 +14,12 @@ A través del ```Packet Tracer 8.2.2.0400``` se incluirán un conjuno de temas r
 - [Plano E-Draw-Max](https://www.edrawmax.com/)
 
 ## :clipboard: Recorrido
-- [Estructura](#estrctura)
-- [0-Introducción](#introducción)
-- [1-Lan](#1-lan)
-- [2-Voip](#2-voip)
-- [Autor](#autor)
+- [Estructura](#file_folder-estrctura)
+- [0-Introducción](#zero-introducción)
+- [1-Lan](#arrow_right-1-lan)
+- [2-Voip](#telephone-2-voip)
+- [3-Ruta-Estática](#arrow_heading_up-ruta-estática)
+- [Autor](#man_with_gua_pi_mao-autor)
 
 
 ## :file_folder: Estrctura
@@ -49,7 +50,7 @@ A través del ```Packet Tracer 8.2.2.0400``` se incluirán un conjuno de temas r
     * <i>:page_facing_up: plano-fisico.png</i>
 15. <b>:green_book: [Documentación PDF](doc.pdf)</b>
 
-## Introducción
+## :zero: Introducción
 
 Proyectos realizados en el simulador de redes de [CISCO](https://www.cisco.com/site/ar/es/index.html). A lo largo de este trabajo se verán temas relacionados con los conceptos más importantes de las redes de computadoras (Voip, rutas estáticas, rutas dinámicas, redundancias, switching, capas, etc).
 
@@ -80,7 +81,7 @@ Proximamente...
 
 :green_book: [...MAS (doc.pdf)](/doc.pdf)
 
-## Autor
+## :man_with_gua_pi_mao: Autor
 [Federico Manzano](http://github.com/FedeManzano)
 
 
