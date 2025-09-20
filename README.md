@@ -18,7 +18,7 @@ A través del ```Packet Tracer 8.2.2.0400``` se incluirán un conjuno de temas r
 - :zero: [0-Introducción](#zero-introducción)
 - :arrow_right: [1-Lan](#arrow_right-1-lan)
 - :telephone: [2-Voip](#telephone-2-voip)
-- [3-Ruta-Estática](#arrow_heading_up-ruta-estática)
+- :arrow_heading_up: [3-Ruta-Estática](#arrow_heading_up-ruta-estática)
 - [4-Redundancias-Switching](#)
 - [5-Etherchannel](#)
 - [6-Capa-Fisica](#)
