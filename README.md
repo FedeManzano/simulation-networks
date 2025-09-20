@@ -20,11 +20,11 @@ A través del ```Packet Tracer 8.2.2.0400``` se incluirán un conjuno de temas r
 - :telephone: [2-Voip](#telephone-2-voip)
 - :arrow_heading_up: [3-Ruta-Estática](#arrow_heading_up-ruta-estática)
 - :recycle: [4-Redundancias-Switching](#)
-- [5-Etherchannel](#)
-- [6-Capa-Fisica](#)
-- [7-Enrutamiento](#)
-- [8-Api-Rest](#)
-- [Autor](#man_with_gua_pi_mao-autor)
+- :on: [5-Etherchannel](#)
+- :european_post_office: [6-Capa-Fisica](#)
+- :arrow_heading_up: [7-Enrutamiento](#)
+- :globe_with_meridians: [8-Api-Rest](#)
+- :man_with_gua_pi_mao: [Autor](#man_with_gua_pi_mao-autor)
 
 ## :file_folder: Estrctura
 
