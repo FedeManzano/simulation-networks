@@ -28,26 +28,26 @@ A través del ```Packet Tracer 8.2.2.0400``` se incluirán un conjuno de temas r
 
 ## :file_folder: Estrctura
 
-1. <b>:file_folder: Lan</b>
+1. <b>:open_file_folder: Lan</b>
     * <i>:page_facing_up: lan-simple.pkt</i>
     * <i>:page_facing_up: lan-dos-vlans-dhcp.pkt</i>
     * <i>:page_facing_up: lan-dos-vlans-cruzadas.pkt</i>
-2. <b>:file_folder: Voip</b>
+2. <b>:open_file_folder: Voip</b>
     * <i>:page_facing_up: voip-comunicacion-lan.pkt</i>
     * <i>:page_facing_up: voip-conexion-serial.pkt</i>
     * <i>:page_facing_up: voip-dial-peer.pkt</i>
-3. <b>:file_folder: Rutas-Estáticas</b>
+3. <b>:open_file_folder: Rutas-Estáticas</b>
     * <i>:page_facing_up: rs-ruta-default.pkt</i>
     * <i>:page_facing_up: rs-ruta-estática.pkt</i>
     * <i>:page_facing_up: rs-ruta-flotante.pkt</i>
-4. <b>:file_folder: Redundancias</b>
+4. <b>:open_file_folder: Redundancias</b>
     * <i>:page_facing_up: red-un-enlace-dos-capas.pkt</i>
     * <i>:page_facing_up: red-dos-enlaces-dos-capas.pkt</i>
     * <i>:page_facing_up: red-dos-enlaces-tres-capas.pkt</i>
-5.  <b>:file_folder: Ethenchannel</b>
+5.  <b>:open_file_folder: Ethenchannel</b>
     * <i>:page_facing_up: eth-tres-enlaces.pkt</i>
-6. <b>:file_folder: Capa Física</b>
-    * <b>:file_folder: presupuesto</b>
+6. <b>:open_file_folder: Capa Física</b>
+    * <b>:open_file_folder: presupuesto</b>
         * <i>:page_facing_up: presupuesto.txt</i>
     * <i>:page_facing_up: fisica-sucursal.pkt</i>
     * <i>:page_facing_up: plano_fisico.eddx</i>
