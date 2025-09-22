@@ -59,6 +59,8 @@ A través del ```Packet Tracer 8.2.2.0400``` se incluirán un conjuno de temas r
 Proyectos realizados en el simulador de redes de [CISCO](https://www.cisco.com/site/ar/es/index.html). A lo largo de este trabajo se verán temas relacionados con los conceptos más importantes de las redes de computadoras (Voip, rutas estáticas, rutas dinámicas, redundancias, Switching, capas, etcétera). <br>
 Para todas las redes definidas en todos los ejercicios de este trabajo, se toman las IPv4 como una SUBNET de 160.15. XX. [SSSS] HHHH donde XX es el número de VLAN elegido para la red, SSSS es el SUBNETID y HHHH es el espacio de direccionamiento para los hosts, en este caso 2^4 = 16 HOSTS por VLAN.
 
+:green_book: [...MAS (doc.pdf)](/doc.pdf)
+
 
 ## :arrow_right: 1-LAN
 
