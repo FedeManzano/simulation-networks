@@ -2,7 +2,17 @@
   <img src="imagenes/portada/portada.png" style='height: 300px; width: 370px overflow: hidden;'/>
 </p>
 
+
 # :earth_americas: Redes Informáticas 
+A continuación se detallan los requisitos necesarios para trabajar con este repositorio:
+
+## :pushpin: Requisitos
+
+- Cisco Packet Tracer 8.2.2.0400 o superior
+- Visualizador de archivos .pkt (Packet Tracer)
+- Visualizador de archivos .eddx (EdrawMax) para planos físicos (opcional)
+- Visualizador de archivos PDF para la documentación
+
 
 A través del ```Packet Tracer 8.2.2.0400``` se incluirán un conjunto de temas relacionados con la configuración de ```redes informáticas```. Toda la documentación del proyecto se puede ver aquí <b>:green_book: [Documentación PDF](doc.pdf)</b>
 
@@ -15,15 +25,15 @@ A través del ```Packet Tracer 8.2.2.0400``` se incluirán un conjunto de temas 
 
 ## :clipboard: Recorrido
 - :file_folder: [Estructura](#file_folder-estructura)
-- :zero: [0-Introducción](#zero-introducción)
-- :arrow_right: [1-Lan](#arrow_right-1-lan)
+- :zero: [Introducción](#zero-introducción)
+- :arrow_right: [1-LAN](#arrow_right-1-lan)
 - :telephone: [2-Voip](#telephone-2-voip)
-- :arrow_heading_up: [3-Ruta-Estática](#arrow_heading_up-ruta-estática)
-- :recycle: [4-Redundancias-Switching](#)
-- :on: [5-Etherchannel](#)
-- :european_post_office: [6-Capa-Fisica](#)
-- :arrow_heading_up: [7-Enrutamiento](#)
-- :globe_with_meridians: [8-Api-Rest](#)
+- :arrow_heading_up: [Ruta Estática](#arrow_heading_up-ruta-estática)
+- :recycle: [Redundancias](#file_folder-estructura)
+- :on: [Etherchannel](#file_folder-estructura)
+- :european_post_office: [Capa Física](#file_folder-estructura)
+- :arrow_heading_up: [Enrutamiento](#file_folder-estructura)
+- :globe_with_meridians: [Api-Rest](#file_folder-estructura)
 - :man_with_gua_pi_mao: [Autor](#man_with_gua_pi_mao-autor)
 
 ## :file_folder: Estructura
