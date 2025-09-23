@@ -4,7 +4,7 @@
 
 # :earth_americas: Redes Informáticas 
 
-A través del ```Packet Tracer 8.2.2.0400``` se incluirán un conjuno de temas relacionados con la configuración de ```redes informáticas```. Toda la documentación del proyecto se puede ver aquí <b>:green_book: [Documentación PDF](doc.pdf)</b>
+A través del ```Packet Tracer 8.2.2.0400``` se incluirán un conjunto de temas relacionados con la configuración de ```redes informáticas```. Toda la documentación del proyecto se puede ver aquí <b>:green_book: [Documentación PDF](doc.pdf)</b>
 
  
  ## :information_source: Recursos externos
@@ -14,7 +14,7 @@ A través del ```Packet Tracer 8.2.2.0400``` se incluirán un conjuno de temas r
 - [Plano E-Draw-Max](https://www.edrawmax.com/)
 
 ## :clipboard: Recorrido
-- :file_folder: [Estructura](#file_folder-estrctura)
+- :file_folder: [Estructura](#file_folder-estructura)
 - :zero: [0-Introducción](#zero-introducción)
 - :arrow_right: [1-Lan](#arrow_right-1-lan)
 - :telephone: [2-Voip](#telephone-2-voip)
@@ -26,7 +26,7 @@ A través del ```Packet Tracer 8.2.2.0400``` se incluirán un conjuno de temas r
 - :globe_with_meridians: [8-Api-Rest](#)
 - :man_with_gua_pi_mao: [Autor](#man_with_gua_pi_mao-autor)
 
-## :file_folder: Estrctura
+## :file_folder: Estructura
 
 1. <b>:open_file_folder: Lan</b>
     * <i>:page_facing_up: lan-simple.pkt</i>
@@ -44,7 +44,7 @@ A través del ```Packet Tracer 8.2.2.0400``` se incluirán un conjuno de temas r
     * <i>:page_facing_up: red-un-enlace-dos-capas.pkt</i>
     * <i>:page_facing_up: red-dos-enlaces-dos-capas.pkt</i>
     * <i>:page_facing_up: red-dos-enlaces-tres-capas.pkt</i>
-5.  <b>:open_file_folder: Ethenchannel</b>
+5.  <b>:open_file_folder: Etherchannel</b>
     * <i>:page_facing_up: eth-tres-enlaces.pkt</i>
 6. <b>:open_file_folder: Capa Física</b>
     * <b>:open_file_folder: presupuesto</b>
