@@ -1,0 +1,35 @@
+# Archivos y carpetas a ignorar por Git
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de Windows
+*.tmp
+~$*
+
+# Archivos de configuración de VSCode
+.vscode/
+
+# Archivos de Packet Tracer
+*.bak
+*.tmp
+
+# Archivos de EdrawMax temporales
+*.eddx~
+
+# Archivos de salida y logs
+*.log
+
+# Archivos de Python (por si se usan scripts)
+__pycache__/
+*.pyc
+
+# Archivos de backup comunes
+*.old
+*.backup
+
+# Otros
+node_modules/
+dist/
+build/
