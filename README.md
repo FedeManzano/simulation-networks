@@ -1,6 +1,3 @@
-<p align="center" style="border-radius: 50px; overflow: hidden;">
-  <img src="imagenes/portada/portada.png" style='height: 300px; width: 370px overflow: hidden;'/>
-</p>
 
 
 # :earth_americas: Redes Informáticas 
